@@ -12,3 +12,4 @@ while k != 'q':
     dict1[k]=v
     k = input('')
 print(dict1)
+
